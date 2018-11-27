@@ -1,3 +1,3 @@
 # hello-world
-idek.
-Hello, I dunno what to in here. (So confident amirite)
+Ello there.
+I dunno what to in here. (So confident amirite)
